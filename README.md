@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<mehinkle>](https://circleci.com/gh/mehinkle/DevOps_Microservices.svg?style=svg)]
 
 ## Project Overview
 
